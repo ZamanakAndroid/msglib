@@ -58,4 +58,5 @@ dependencies {
     compile 'com.daimajia.swipelayout:library:1.2.0@aar'
     compile files('libs/picasso-2.5.2.jar')
     compile 'com.android.support:multidex:1.0.3'
+    compile 'com.android.support:support-annotations:27.1.1'
 }
