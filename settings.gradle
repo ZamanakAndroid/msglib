@@ -1,0 +1,2 @@
+include ':app', ':msg_lib'
+project(':msg_lib').projectDir = new File('msglib')

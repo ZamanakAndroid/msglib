@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ebf2f0</color>
+    <color name="colorPrimaryDarker">#05c173</color>
+    <color name="colorPrimaryDark">#06e186</color>
+    <color name="colorAccent">#00A3D9</color>
+
+    <color name="primaryColor">#06e186</color>
+    <color name="primaryColorDark">#05c173</color>
+    <color name="accentColor">#00A3D9</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="dark_white">#f9f9f9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="bottom_nav_bg">#e7e7e7</color>
+    <color name="pink">#dd0072</color>
+    <color name="purple">#744d9a</color>
+    <color name="red">#dd0004</color>
+    <color name="orange">#ffa300</color>
+    <color name="ios_blue">#007aff</color>
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="green">#05c173</color>
+    <color name="blue">#00A3D9</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#43c186</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#0462c9</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#aae9dc</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#145294</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#008067</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#5d9de2</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+
+    </array>
+
+    <color name="LightGrey">#D3D3D3</color>
+
+</resources>

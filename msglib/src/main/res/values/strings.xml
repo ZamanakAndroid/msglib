@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MsgLib</string>
+
+    <!-- Messages -->
+    <string name="message_date">تاریخ ارسال</string>
+    <string name="empty_inbox">شما پیامی ندارید.</string>
+
+    <!--Connection Error Msg-->
+    <string name="plz_connect_to_the_internet">اتصال شما به اینترنت قطع است</string>
+    <string name="timeoutError">خطا در برقراری ارتباط با سرور </string>
+    <string name="networkError">خطا در شبکه</string>
+    <string name="serverError">خطای سرور</string>
+    <string name="authFailureError">خطا در ورود</string>
+    <string name="parseError">خطا</string>
+    <string name="plz_try_again">دوباره تلاش کنید</string>
+
+    <!--Dialog & Msg-->
+    <string name="plz_wait_some_seconds">لطفا چند ثانیه صبر کنید تا موقعیت شما دریافت شود ...</string>
+    <string name="dialog_message">آیا میخواهید با این شماره تماس بگیرید؟</string>
+    <string name="under_construction">در حال پیاده سازی ...</string>
+    <string name="compressing">در حال فشرده سازی ... </string>
+    <string name="edit_successful">تغییرات با موفقیت انجام شد. </string>
+    <string name="messages">پیام ها</string>
+
+    <!--Alert and Toast-->
+    <string name="plz_wait">لطفا کمی صبر کنید</string>
+    <string name="cancel">لغو</string>
+    <string name="yes">بله</string>
+    <string name="close">بستن</string>
+    <string name="fill_at_least_one_field"> لطفا یکی از دو فیلد توضیحات  یا تصویر نسخه را پر یا بارگذاری کنید.</string>
+    <string name="timeout">TimeoutError</string>
+    <string name="plz_fill_all_fields">لطفا تمام فیلدها پر کنید</string>
+    <string name="enter_valid_password">لطفا رمز عبور خود را  با حداقل شش کاراکتر وارد کنید.</string>
+    <string name="login_failed">عدم موفقیت در ورود</string>
+    <string name="signup_failed">عدم موفقیت در ثبت نام</string>
+    <string name="at_least_three_char">حداقل سه کاراکتر</string>
+    <string name="mandatory_field">پر کردن این فیلد اجباریست</string>
+    <string name="enter_valid_email">لطفا ایمیل خود را صحیح وارد کنید.</string>
+    <string name="ten_chars">کد ملی ده رقمی است</string>
+    <string name="email_validation">ایمیل وارد شده صحیح نیست</string>
+    <string name="r_u_sure_to_quit">آیا برای خروج از برنامه مطمئن هستید؟</string>
+    <string name="plz_select_at_least_one_item">لطفا حداقل یکی از موارد را انتخاب کنید</string>
+    <string name="plz_fill_help_field">ثبت توضیحات الزامی است</string>
+    <string name="send_response_successful">ارسال پاسخ موفقیت آمیز بود</string>
+    <string name="operation_successful">عملیات موفقیت آمیز انجام شد</string>
+    <string name="permission_not_allowed">شما به این بخش دسترسی ندارید</string>
+    <string name="error">خطا</string>
+    <string name="r_u_sure_to_mark_as_read">آیا شما جهت حذف درخواست مطمئن هستید؟</string>
+    <string name="r_u_sure_to_wrong_request">آیا شما برای ارسال گزارش تخلف مطمئن هستید؟</string>
+
+    <string name="no_more_item">مورد دیگری برای نمایش وجود ندارد.</string>
+    <string name="try_again">تلاش مجدد</string>
+    <string name="load_failed">بارگذاری موفقیت آمیز نبود.</string>
+
+</resources>
